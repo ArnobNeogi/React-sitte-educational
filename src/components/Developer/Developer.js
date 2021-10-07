@@ -13,7 +13,7 @@ const Developer = () => {
             <small className="text-center fw-bold">#SoftwareEnthusiast</small>
             <br />
 
-            <a target="_blank" rel="noreferrer" href="https://github.com/shadmansaalim" className="btn btn-outline-primary btn-lg mt-3">About me <FontAwesomeIcon icon={faCode} /></a>
+            
 
         </section>
     );
