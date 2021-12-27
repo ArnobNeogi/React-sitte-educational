@@ -38,14 +38,14 @@ const Home = () => {
             </section>
             {/* Added a Accordion using React Bootstrap for better UI/UX */}
             <section style={{ marginTop: 120 }}>
-                <h1 className="headline mb-3 text-start ms-lg-4">Why ZERO TO INFINITY?</h1>
+                <h1 className="headline mb-3 text-start ms-lg-4">WHY ZERO TO INFINITY?</h1>
                 <Row className="d-flex justfiy-content-around align-items-center">
                     <Col lg={6} className="mx-auto">
                         <Accordion defaultActiveKey="0" flush>
                             <Accordion.Item eventKey="0">
                                 <Accordion.Header>Resources</Accordion.Header>
                                 <Accordion.Body>
-                                    Whenever you learn, you want to have access to as many resources as possible, and Udemy ensures that. Students can complete exercises and assignments and submit them to instructors to get their opinion on how they have performed
+                                    Whenever you learn, you want to have access to as many resources as possible, and ZERO TO INFINITY ensures that. Students can complete exercises and assignments and submit them to instructors to get their opinion on how they have performed
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="1">
@@ -69,7 +69,7 @@ const Home = () => {
                             <Accordion.Item eventKey="5">
                                 <Accordion.Header>Trendy Topics</Accordion.Header>
                                 <Accordion.Body>
-                                    Competition creates a very dynamic environment in course creation, and trendy topics are covered on Udemy much faster compared to other platforms.
+                                    Competition creates a very dynamic environment in course creation, and trendy topics are covered on ZERO TO INFINITY much faster compared to other platforms.
                                 </Accordion.Body>
                             </Accordion.Item>
                         </Accordion>
