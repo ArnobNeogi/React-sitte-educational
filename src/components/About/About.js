@@ -9,7 +9,7 @@ const About = () => {
                 <section style={{ marginTop: 120 }} className="mb-5">
                     <Row className="d-flex align-items-center">
                         <Col lg="6">
-                            <p>Udemy partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide. We offer a range of learning opportunities—from hands-on projects and courses to job-ready certificates and degree programs.</p>
+                            <p>ZERO TO INFINITY partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide. We offer a range of learning opportunities—from hands-on projects and courses to job-ready certificates and degree programs.</p>
                         </Col>
                         <Col lg="6">
                             <img className="img-fluid" src="https://images.ctfassets.net/00atxywtfxvd/4vOWgNjy4KExR8msqHnJEP/bb1557d60e8a29f6a5f09148f700bff5/partner-logos.png" alt="" />
@@ -25,7 +25,7 @@ const About = () => {
                         <Row className="d-flex justify-content-around align-items-center">
                             <Col lg="6" className="text-start">
                                 <h2><b>Campuses</b> are equipping students with in-demand career skills.</h2>
-                                <p>"Udemy helps to level the playing field for all of our students. They gain skills and experiences that are highly sought after in the global marketplace."</p>
+                                <p>"ZERO TO INFINITY helps to level the playing field for all of our students. They gain skills and experiences that are highly sought after in the global marketplace."</p>
                                 <b>Peter Szakál</b>,
                                 <p>Director of Academic Affairs, University of Szeged</p>
                             </Col>

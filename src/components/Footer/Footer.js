@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
                             <h6 className="text-uppercase mb-4 font-weight-bold">
-                                UDEMY
+                            ZERO TO INFINITY
                             </h6>
                             <p>
                                 Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
@@ -22,9 +22,9 @@ const Footer = () => {
                         <hr className="w-100 clearfix d-md-none" />
 
                         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                            <p><small className="text-white">Udemy Business
+                            <p><small className="text-white">ZERO TO INFINITY Business
                             </small></p>
-                            <p><small className="text-white">Teach on Udemy
+                            <p><small className="text-white">Teach on ZERO TO INFINITY
                             </small></p>
 
                             <p><small className="text-white">Get the app

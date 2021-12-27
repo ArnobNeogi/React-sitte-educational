@@ -7,13 +7,9 @@ const Header = () => {
         <Navbar className="shadow-lg mb-5" expand="lg">
             <Container>
                 <Navbar.Brand href="/home">
-                    <img
-                        src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
-                        width="80"
-                        height="30"
-                        className="d-inline-block align-top"
-                        alt="React Bootstrap logo"
-                    />
+                    
+
+                    <h1> ZERO TO INFINITY  </h1>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">

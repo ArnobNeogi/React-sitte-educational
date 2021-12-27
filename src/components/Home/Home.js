@@ -38,7 +38,7 @@ const Home = () => {
             </section>
             {/* Added a Accordion using React Bootstrap for better UI/UX */}
             <section style={{ marginTop: 120 }}>
-                <h1 className="headline mb-3 text-start ms-lg-4">Why Udemy?</h1>
+                <h1 className="headline mb-3 text-start ms-lg-4">Why ZERO TO INFINITY?</h1>
                 <Row className="d-flex justfiy-content-around align-items-center">
                     <Col lg={6} className="mx-auto">
                         <Accordion defaultActiveKey="0" flush>
